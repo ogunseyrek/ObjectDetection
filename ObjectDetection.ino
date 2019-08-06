@@ -1,3 +1,6 @@
+//Hilmi Ogün SEYREK
+//ogunseyrek@gmail.com
+
 #define trigPin 9 //Sensörün Echo pini Arduinonun 13. pinine bağlanır
 #define echoPin 8 //Sensorün Trig pini Arduinonun 12. pinine bağlanır
 int buzzer = 6;
